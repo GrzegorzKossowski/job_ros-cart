@@ -1,0 +1,17 @@
+{
+    "name": "ros-cart",
+    "version": "1.0.0",
+    "description": "Simple product list and cart",
+    "main": "index.js",
+    "scripts": {
+        "server": "nodemon index.js --prefix server",
+        "client": "npm run start --prefix client",
+        "dev": "concurrently \"npm run server\" \"npm run client\""
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "concurrently": "^6.2.1",
+        "nodemon": "^2.0.13"
+    }
+}
