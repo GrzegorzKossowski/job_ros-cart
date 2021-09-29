@@ -3,7 +3,7 @@
 Not participated, but wanna try anyway. 3h time olnly.
 It took me a bit more time to finish...
 It is a 'very-fast-coding' task anyway. No time to hesitate, so code looks like it looks 😇
-React part only. Node server added for fun and pracice.
+The task part was React only. Node server added for fun and practice.
 
 ## Description
 
